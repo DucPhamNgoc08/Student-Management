@@ -70,7 +70,7 @@ java -cp bin main.Main
 
 ---
 
-## 📝 Notes
+## Notes
 - **No database is used** (Students are stored in memory using `ArrayList<Student>`)
 - You can **extend** this project by adding a database (MySQL, SQLite)
 - Feel free to **contribute** or **customize** as needed!
